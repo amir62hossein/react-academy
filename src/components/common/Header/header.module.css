@@ -1,0 +1,21 @@
+.lineb:hover {
+  border-bottom: 2px solid rgb(57, 55, 245);
+}
+.main {
+  width: 2000px;
+}
+
+.login {
+  margin-right:990px;
+}
+
+@media screen and (max-width:1280px) {
+    .login{
+        margin-right:750px;
+    }
+}
+@media screen and (max-width:1024px) {
+    .login{
+        margin-right:500px;
+    }
+}

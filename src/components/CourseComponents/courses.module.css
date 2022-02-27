@@ -1,0 +1,13 @@
+
+.Box{
+    width:1300px;
+}
+.pic{
+    margin-top:-60px;
+}
+.fonts{
+    font-size:12px;
+}
+.bg{
+    background-image: url("../../assets/images/landing-bests/bgB2.svg");
+}

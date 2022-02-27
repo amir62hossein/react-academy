@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'vazir';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../../assest/fonts/Vazir.ttf'); 
+
+  }
+ .fonts{
+     font-family: 'vazir';
+ }

@@ -1,0 +1,20 @@
+.mainWidth{ 
+    width:1100px;
+}
+.imgs{
+    margin-top:-50px;
+}
+
+.main{
+    height:700px;
+}
+.Box{
+    width:1300px;
+     height:700px;
+}
+.pic{
+    margin-top:-60px;
+}
+.bg{
+    background-image: url("../../../assets/images/landing-bests/bgB2.svg");
+}

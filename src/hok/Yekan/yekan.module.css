@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'yekan';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../../assets/fonts/Yekan.ttf'); 
+
+  }
+ .fonts{
+     font-family: 'yekan';
+ }
